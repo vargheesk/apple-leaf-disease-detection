@@ -38,6 +38,7 @@ Before you start, ensure you have the following installed:
      ```yaml
      assets:
        - assets/model.tflite
+       - assets/labels.txt
      ```
 
 3. **Install Dependencies:**
