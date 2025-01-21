@@ -27,8 +27,8 @@ Before you start, ensure you have the following installed:
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/vargheesk/apple-leaf-disease-detection.git
+   cd apple-leaf-disease-detection
    ```
 
 2. **Add the TensorFlow Lite Model:**
