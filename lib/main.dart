@@ -7,7 +7,7 @@ import 'dart:io';
 
 void main() {
   // Initialize Gemini before running the app
-  Gemini.init(apiKey: "AIzaSyBRNcb_e0MSUfPin7l5I77lUMDA8UFaGUU");
+  Gemini.init(apiKey: "YOUR API KEY");
   runApp(const MyApp());
 }
 
