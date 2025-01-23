@@ -63,10 +63,11 @@ Before you start, ensure you have the following installed:
 Add these dependencies to your `pubspec.yaml` file:
 ```yaml
 dependencies:
-  flutter:
-    sdk: flutter
-  tflite:
-  image_picker:
+  tflite_flutter: ^0.10.4
+  image_picker: ^1.0.7
+  image: ^4.1.7
+  flutter_gemini: ^3.0.0
+  flutter_markdown:
 ```
 
 ---
