@@ -38,6 +38,8 @@ dependencies:
   tflite_flutter: ^0.10.4
   image_picker: ^1.0.7
   image: ^4.1.7
+  flutter_gemini: ^3.0.0
+  
 
 
 dev_dependencies:
