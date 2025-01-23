@@ -333,7 +333,12 @@ import 'package:flutter_markdown/flutter_markdown.dart';
 import 'dart:io';
 
 void main() {
+<<<<<<< HEAD
   Gemini.init(apiKey: "AIzaSyBRNcb_e0MSUfPin7l5I77lUMDA8UFaGUU");
+=======
+  // Initialize Gemini before running the app
+  Gemini.init(apiKey: "YOUR API KEY");
+>>>>>>> 716829f7a5a0e03458f139d4a32a14ffd677476c
   runApp(const MyApp());
 }
 
